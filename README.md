@@ -4,8 +4,8 @@ The shared files in this repo are a major feature that was tested, And Documente
 
 **The file contains:**
 
-1- Test Cases crafted based on my understanding.
-2- Decision Table as test cases (due to the large number of conditions).
+1- Test Cases crafted based on my understanding.<br>
+2- Decision Table as test cases (due to the large number of conditions).<br>
 3- Full documentation for the feature.
 
 The next update on this repo will include more test cases, and the last one will contain automation scripts that cover all main test cases
